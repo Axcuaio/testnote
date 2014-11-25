@@ -1,5 +1,5 @@
 var parseAPPID = "Ea5lOY52MzVym9l2B5tOt5Z4G59vAoK2sVP6IWno";
-var parseJSID = "xDNy3rG5Z25j5Px1GkPYExSlugeYxj";
+var parseJSID = "xDNy3rG5Z25j5Px1GkPYExSlugeYxjWXB12ezLsE";
 
 //Initialize Parse
 Parse.initialize(parseAPPID,parseJSID);
